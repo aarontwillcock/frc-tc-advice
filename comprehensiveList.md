@@ -65,3 +65,16 @@ coasting
 braking
 how computers are made (ground up)
 How code is compiled
+types of sensors
+where sensors are used
+why sensors are used
+resolution
+precision
+accuracy
+precision vs accuracy
+feedback
+control system
+wiring
+logic gates
+adder
+flip flops
